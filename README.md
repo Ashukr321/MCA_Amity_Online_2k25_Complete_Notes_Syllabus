@@ -8,7 +8,7 @@ MCA_Amity_Online_2k25_Complete_Notes_Syllabus is a centralized repo containing t
 - Core Java
 - Graph Theory and Combinatorics
 - Professional Communication
-- Clean Code (PDF)
+
 
 ### Collaborator
 - **Ashutosh Kumar (Ashukr321)**
