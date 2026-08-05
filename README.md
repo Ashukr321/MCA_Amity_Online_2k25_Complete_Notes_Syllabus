@@ -20,6 +20,15 @@ MCA_Amity_Online_2k25_Complete_Notes_Syllabus is a centralized repo containing t
 - Network Security and Cryptography
 - Research Methodology
 
+### Semester 3
+- Cloud Infrastructure and Services
+- Machine Learning Using Python
+- Professional Ethics
+- Quantitative Aptitude
+- Seminar Evaluation (Minor Projects)
+- Software Testing and Reliability
+- UNIX
+
 ### Collaborator
 - **Ashutosh Kumar (Ashukr321)**
   - GitHub: [github.com/Ashukr321](https://github.com/Ashukr321)
