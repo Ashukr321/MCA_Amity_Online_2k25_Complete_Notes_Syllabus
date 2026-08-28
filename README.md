@@ -44,7 +44,18 @@ MCA_Amity_Online_2k25_Complete_Notes_Syllabus is a centralized repo containing t
 - Professional Ethics
 - Quantitative Aptitude
 - Seminar Evaluation (Minor Projects)
-- Software Testing and Reliability
+- [Software Testing and Reliability](3rd_semester/softwere%20testting%20and%20reliability)
+  - [Software Testing and Reliability Book](3rd_semester/softwere%20testting%20and%20reliability/Software%20Testing%20and%20Reliability%20enc.pdf)
+  - [Software Testing and Reliability Syllabus](3rd_semester/softwere%20testting%20and%20reliability/Softwere_Testing_and_Reliability_syllabus.pdf)
+  - **[Frontend Web Testing & Reliability Master Guide](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web)**
+    - [01. Unit Testing (Vitest / Jest)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/01_unit_testing/unit_testing_vitest_jest.md)
+    - [02. Component Testing (React Testing Library)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/02_component_testing/react_testing_library.md)
+    - [03. E2E Testing (Playwright)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/03_e2e_testing_playwright/playwright_e2e.md)
+    - [04. E2E Testing - Legacy/Enterprise (Cypress)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/04_e2e_testing_cypress/cypress_e2e.md)
+    - [05. API Mocking (MSW - Mock Service Worker)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/05_api_mocking/msw_api_mocking.md)
+    - [06. Code Coverage Analysis & Enforcement](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/06_code_coverage/code_coverage_guide.md)
+    - [07. Visual Regression Testing (Chromatic / Storybook)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/07_visual_regression/chromatic_storybook_visual_testing.md)
+    - [08. Test Runner & Assertions Deep Dive](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/08_test_runner_assertions/test_runner_and_assertions.md)
 - UNIX
 
 ### Collaborator
