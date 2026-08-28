@@ -56,7 +56,13 @@ MCA_Amity_Online_2k25_Complete_Notes_Syllabus is a centralized repo containing t
     - [06. Code Coverage Analysis & Enforcement](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/06_code_coverage/code_coverage_guide.md)
     - [07. Visual Regression Testing (Chromatic / Storybook)](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/07_visual_regression/chromatic_storybook_visual_testing.md)
     - [08. Test Runner & Assertions Deep Dive](3rd_semester/softwere%20testting%20and%20reliability/frontend%20web/08_test_runner_assertions/test_runner_and_assertions.md)
-- UNIX
+- [UNIX](3rd_semester/unix)
+  - [Applications of Unix Systems in Production](3rd_semester/unix/applicaitons%20of%20unix%20sysetem.md)
+  - [Unix Syllabus](3rd_semester/unix/Unix_syllbus.pdf)
+  - [Unix and Linux Programming C](3rd_semester/unix/Unix%20and%20Linux%20Programming%20C_Final.pdf)
+  - [Linux Interview Questions](3rd_semester/unix/Linux%20Interview%20Questions.pdf)
+  - [70 Linux Questions Part 2](3rd_semester/unix/70%20Linux%20Questions%20Part2.pdf)
+  - [Shell Scripting Questions](3rd_semester/unix/Shell%20Scripting%20Questions.pdf)
 
 ### Collaborator
 - **Ashutosh Kumar (Ashukr321)**
